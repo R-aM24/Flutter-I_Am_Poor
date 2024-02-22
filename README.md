@@ -7,5 +7,6 @@ On opening the app it will display a clipart image of an empty valet.
 
 This app was built to understand and practice the very basics of Flutter, Dart, MaterialApp and scaffold widget.
 This also helps understand how to change and manipulate other basic widgets like color, center, etc.
+
 #### Screenshots:
-![img.png](img.png)
+![img_1.png](img_1.png)
